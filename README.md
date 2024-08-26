@@ -6,7 +6,7 @@
   - 단, 여기서는 일단 다루지 않음.
 - likeability: 호감도로 미연시를 진행할 때 결말에 도달하기 위한 임계치
 
-## Dataset
+## Dataset 컨셉
 - Persona(Option): 특정 캐릭터
 - System: 호감도(likeability)에 따라 상황 변경을 하기 위한 값
 - input: 주인공(사용자)가 입력한 값
